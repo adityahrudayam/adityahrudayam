@@ -4,7 +4,7 @@ I'm a passionate Software and ML Engineer with over a year of work experience in
 
 * Former Software Engineer at PayU
 * Full stack developer Intern at Freecharge (May 2021 - Jul 2021)
-* Frontend Developer Intern at Ravgins (Jun 2020 - Aug 2020)
+* Frontend developer Intern at Ravgins (Jun 2020 - Aug 2020)
 * Currently pursuing an MS in Computer Science at [Purdue University Fort Wayne](https://www.pfw.edu/)
 
 **Skills**
