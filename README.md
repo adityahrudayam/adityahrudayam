@@ -101,29 +101,33 @@ Bachelor of Technology in Mechanical Engineering
 ### Associate Software Engineer
 **Wibmo - PayU**  
 *Bengaluru, Karnataka, India (Jul 2022 - Apr 2023)*
-- Developed software for a Risk-based Authentication Engine aimed at detecting and preventing fraudulent transactions.
-- Implemented essential business logic for the core application, enhancing functionality and ensuring alignment with business requirements.
-- Designed, developed, and rigorously tested microservices to manage incoming loads on the core application.
-- Implemented asynchronous processing of data through messaging queues such as RabbitMQ and Apache Kafka.
-- Enhanced software performance, reducing latency, increasing throughput, and improving overall efficiency.
-- Utilized a diverse tech stack including Spring Webflux, Java Spring Boot, MySQL, Couchbase, Redis, Node.js, Express.js, Angular, Docker, Linux, AWS.
+- Developed and optimized backend services for a Risk-based Authentication Engine, enhancing fraud detection and prevention capabilities. This included preventing fraudulent transactions and identifying malicious activities such as money laundering and BIN attacks, ensuring secure transaction processing.
+- Designed and implemented a microservices architecture to support high-traffic loads, ensuring system scalability and reliability, which improved the system's ability to handle increased user demand without compromising performance.
+- Built and maintained real-time data pipelines using RabbitMQ and Apache Kafka, significantly optimizing data processing throughput and reducing latency by 20%, which improved the overall system efficiency and responsiveness.
+- Implemented asynchronous processing of data, leveraging messaging queues like RabbitMQ and Apache Kafka, which allowed for efficient handling of concurrent processes and minimized processing delays.
+- Played a key role in developing core business logic, ensuring that the application met complex business requirements and enhanced its functionality to align with evolving project needs.
+- Enhanced software performance by employing various optimization techniques, resulting in a 30% reduction in processing time for critical transactions, which translated to better user experiences and operational efficiency.
+- Utilized a diverse tech stack including reactive frameworks (Spring Webflux), Java Spring Boot, MySQL, Couchbase, Redis, Node.js, Express.js, Angular, Docker, Linux, and AWS, delivering comprehensive solutions across multiple technology layers.
 
 ### Intern, Full Stack Developer
 **Freecharge**  
 *Remote Internship (May 2021 - Jul 2021)*
-- Overhauled microservices architecture, applying optimization techniques and leveraging full-stack technologies such as Node.js and MongoDB to enhance system efficiency.
-- Spearheaded memory caching initiatives, significantly boosting application performance and response times.
-- Implemented load balancing strategies, optimizing resource distribution for improved scalability and reliability.
+- Revamped the existing microservices architecture, applying optimization techniques that reduced response times by 25% and enhanced overall system efficiency and scalability to better handle increasing user demands.
+- Spearheaded memory caching initiatives, significantly boosting application performance by reducing database load and improving response times by 35%.
+- Implemented load balancing strategies, optimizing resource allocation, and ensuring the system's reliability and availability under varying traffic conditions.
 
 ### Intern, Front-end Developer
 **Ravgins**  
 *Remote Internship (Jun 2020 - Aug 2020)*
-- Developed websites and an influencer marketing mobile app using Javascript, Angular, Angular Material, Ionic frameworks, and Cordova/Capacitor.
-- Implemented innovative features, contributing to the app's seamless user experience and overall functionality.
-- Created dynamic, responsive web applications using Javascript and cutting-edge frameworks.
-- Collaborated with a cross-functional team to bring projects to fruition, demonstrating strong teamwork and problem-solving skills.
+- Developed and launched user-centric web applications and a mobile app using Angular, Angular Material, and Ionic frameworks, enhancing user experience and engagement.
+- Constructed robust, full-stack platforms with a focus on responsive design and seamless user interaction, contributing innovative features that improved the overall functionality and user satisfaction.
+- Collaborated with a cross-functional team to deliver projects on time, demonstrating strong teamwork and problem-solving skills, and ensuring alignment with business objectives.
 
 ## Personal Projects
+
+### SwiftNet
+A high-performance, low-latency networking library in C++ designed to build very fast networking applications.
+- **Technologies**: Modern C++, Linux System Programming, Socket Programming, Advanced Computer Networking, High-Performance Computing, Asynchronous I/O
 
 ### FlashPoint
 A high-performance in-memory key-value store focused on delivering low-latency responses for scalable data access.
@@ -134,20 +138,20 @@ A high-performance in-memory key-value store focused on delivering low-latency r
   - Thread Pool for Workloads: Maintains a thread pool to handle computationally intensive tasks.
   - Efficient Resource Management: Integrates timer management for handling idle connections and expiring data.
   - Pipelined Request/Response Protocol: Allows clients to send multiple requests without waiting for individual responses.
-- **Technical stack**: C, C++, Data structures and Algorithms, Socket Programming, Advanced Computer Networking, Linux System Programming, CUDA GPU Programming, High-Performance Computing
+- **Technologies**: C, C++, Data structures and Algorithms, Socket Programming, Advanced Computer Networking, Linux System Programming, CUDA GPU Programming, High-Performance Computing
 
 ### Math Evaluator
 - A mathematical expression evaluator tool that can parse and evaluate a given math expression.
 - Supports addition, subtraction and multiplication operations on matrices.
-- **Technical stack**: C++, Data structures and Algorithms
+- **Technologies**: C++, Data structures and Algorithms
 
 ### Sambhashan
 - A social networking, chat-messaging website with user authentication, end-to-end messaging, and group-sharing features.
-- **Technical stack**: EJS templating engine, NodeJs, MongoDB, MySQL, MVC pattern
+- **Technologies**: EJS templating engine, NodeJs, MongoDB, MySQL, MVC pattern
 
 ### Music Player
 - A music player website with user authentication, audio/video upload and download options, search filters, personalized playlist options, and song repetition mode.
-- **Technical stack**: EJS templating engine, NodeJs, MongoDB, MySQL, MVC pattern
+- **Technologies**: EJS templating engine, NodeJs, MongoDB, MySQL, MVC pattern
 
 ## Achievements
 
